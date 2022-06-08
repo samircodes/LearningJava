@@ -1,0 +1,5 @@
+learnt java basics
+
+learnt object oriented programming in java
+
+installed intelliJ on machine and did some java coding in it
